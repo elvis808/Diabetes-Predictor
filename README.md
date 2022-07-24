@@ -1,2 +1,3 @@
 # Diabetes-Predictor
-Machine Learning and Artificial Intelligence was used in this project.
+
+Python, Jupyter notebook, pandas, keras, and scikit-learn was used in this project.
