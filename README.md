@@ -1,4 +1,4 @@
-# Diabetes-Predictor
+# AI Creation - Diabetes Predictor
 
 Python, Jupyter notebook, pandas, Tensorflow/Keras, and sci-kit-learn were used in this project.
 
