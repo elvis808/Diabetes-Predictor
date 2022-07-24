@@ -1,6 +1,6 @@
 # Diabetes-Predictor
 
-Python, Jupyter notebook, pandas, Keras, and sci-kit-learn were used in this project.
+Python, Jupyter notebook, pandas, Tensorflow/Keras, and sci-kit-learn were used in this project.
 
 [Click here](https://colab.research.google.com/github/elvis808/Diabetes-Predictor/blob/main/AI_build.ipynb)
 
